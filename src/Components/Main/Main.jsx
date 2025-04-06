@@ -34,11 +34,11 @@ function Main() {
         <p className="text-[#585858] text-[3vw] sm:text-[2vw] md-text-[1vw] ">
           My Gemini
         </p>
-        {/* <img
+        <img
           className="w-[6vw] h-[6vw] md:w-[4vw] md:h-[4vw] lg:w-[3vw] lg:h-[3vw]  rounded-full"
           src={assets.user_icon}
           alt="User icon"
-        /> */}
+        />
       </div>
 
       {!showResults ? (
